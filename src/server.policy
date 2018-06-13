@@ -1,0 +1,3 @@
+grant codeBase "home/mahoma/mc833/mc833-rmi/src" {
+    permission java.security.AllPermission;
+};
