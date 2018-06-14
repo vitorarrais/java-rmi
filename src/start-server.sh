@@ -5,6 +5,7 @@ rmiregistry &
 PROJECT_PATH=$1
 
 # /home/mahoma/unicamp/mc833/mc833-rmi
+# ~/Unicamp/2018-1/MC833/proj03/mc833-rmi/
 
 javac -cp $PROJECT_PATH/src/compute.jar $PROJECT_PATH/src/engine/ComputeEngine.java
 
